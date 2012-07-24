@@ -1,0 +1,2 @@
+DPkg::Post-Invoke { "/usr/sbin/purgekernels"; };
+
