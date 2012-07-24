@@ -1,2 +1,2 @@
-DPkg::Post-Invoke { "/usr/sbin/purgekernels"; };
+DPkg::Post-Invoke { "/usr/sbin/purgekernel"; };
 
